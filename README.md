@@ -8,5 +8,5 @@ Este proyecto en Flutter presenta una pantalla de inicio de sesión interactiva 
 ❌ Muestra animación de error si los datos son incorrectos
 🔄 Reacciones en tiempo real gracias a la State Machine de Rive
 🧭 Diseño adaptable a distintos tamaños de pantalla
-
+sadasdasdasd
 ## 🎨 ¿Qué es Rive?
